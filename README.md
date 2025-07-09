@@ -41,7 +41,8 @@
 
 <!-- Contribution Graph -->
 <div align="center">
-![GitHub Contribution Graph](/contributiongrid.svg)
+  
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contributiongrid.svg)
 
 <!-- GITHUB STATS -->
 <div align="center" style="margin: 40px 0;">
