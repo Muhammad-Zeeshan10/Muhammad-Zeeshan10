@@ -42,7 +42,6 @@
 <!-- Contribution Graph -->
 <div align="center">
 ![GitHub Contribution Graph](/contributiongrid.svg)
-</div>
 
 <!-- GITHUB STATS -->
 <div align="center" style="margin: 40px 0;">
