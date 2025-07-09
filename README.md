@@ -57,36 +57,49 @@
 </div>
 
 
+
 <!-- TECH STACK -->
 <div align="center" style="margin: 40px 0;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=7B8FA1&center=true&vCenter=true&random=false&width=380&height=45&lines=Tech+Stack" alt="Tech Stack" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=7B8FA1&center=true&vCenter=true&random=false&width=380&height=45&lines=Tech+Stack" alt="Tech Stack" />
 
-  <div align="center" style="margin: 30px auto; max-width: 800px; background: linear-gradient(145deg, #0D1117, #121920); padding: 30px; border-radius: 16px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15); backdrop-filter: blur(4px); border: 1px solid rgba(123, 143, 161, 0.18);">
-    <img src="https://skillicons.dev/icons?i=reactjs,nodejs,express,python,mongodb,postman,linux" width="auto" height="50" alt="Backend Tech Stack" />
+  <div style="margin: 30px auto; max-width: 900px; background: linear-gradient(145deg, #0D1117, #121920); padding: 30px; border-radius: 16px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15); border: 1px solid rgba(123, 143, 161, 0.18); display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sql" height="40" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" height="40" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="40" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,postman,linux" height="40" alt="DevOps Tools" />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="UI/UX" />
   </div>
 </div>
 
-<!-- CONNECT WITH ME -->
-<div align="center" style="margin: 40px 0;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=7B8FA1&center=true&vCenter=true&random=false&width=380&height=45&lines=Reach+Out" alt="Tech Stack" />
-  </a>
 
-  <div align="center" style="margin: 30px auto; max-width: 800px; background: linear-gradient(145deg, #0D1117, #121920); padding: 30px; border-radius: 16px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.15); backdrop-filter: blur(4px); border: 1px solid rgba(123, 143, 161, 0.18);">
+<!-- LET'S CONNECT -->
+<div align="center" style="margin: 60px 0;">
+  <!-- Typing Heading -->
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=7B8FA1&center=true&vCenter=true&width=380&height=45&lines=Let’s+Connect" alt="Connect Typing" />
+
+  <!-- Badge Box -->
+  <div style="
+    margin: 30px auto;
+    padding: 25px 35px;
+    border-radius: 18px;
+    max-width: 700px;
+    background: radial-gradient(circle at top left, #0D1117, #121920);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    border: 1px solid rgba(123,143,161,0.18);
+  ">
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/muhammad-zeeshan10/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-      <span style="font-size: 1.5em; vertical-align: middle;">🔗</span>
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:muhammadzeeshannazim115@gmail.com" target="_blank" rel="noopener noreferrer" title="Email" style="margin-left: 12px;">
-      <span style="font-size: 1.5em; vertical-align: middle;">✉️</span>
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;"/>
+    <a href="mailto:muhammadzeeshannazim115@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://instagram.com/zee_shan0101" target="_blank" rel="noopener noreferrer" title="Instagram" style="margin-left: 12px;">
-      <span style="font-size: 1.5em; vertical-align: middle;">📸</span>
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle;"/>
+    <a href="https://instagram.com/zee_shan0101" target="_blank" rel="noopener noreferrer" title="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-
   </div>
 </div>
