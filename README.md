@@ -27,10 +27,9 @@
           <li><strong>Databases:</strong> MongoDB, MySQL, PostgreSQL</li>
         </ul>
       </td>
-      <td width="33%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zeeshan10&layout=compact&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&hide_border=true&card_width=280" alt="Top Languages"
-             style="border-radius: 12px; box-shadow: 0 4px 20px rgba(123, 143, 161, 0.2);" />
-      </td>
+        <td width="40%" align="center" style="padding: 20px;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zeeshan10&layout=compact&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&hide_border=true&card_width=280" alt="Top Languages" />
+        </td>
     </tr>
   </table>
 </div>
@@ -45,7 +44,7 @@
 <!-- GITHUB STATS -->
 <div align="center" style="margin: 40px 0;">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <a href="https://github.com/Muhammad-Zeeshan10">
+    <a href="https://github.com/zaim-abbasi">
       <img width="49%" style="filter: drop-shadow(0 0 8px #7B8FA150);" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zeeshan10&show_icons=true&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&hide_border=true&card_width=495" />
     </a>
     <a href="https://github.com/Muhammad-Zeeshan10">
