@@ -28,8 +28,7 @@
         </ul>
       </td>
       <td width="33%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zeeshan10&layout=compact&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&hide_border=true&card_width=280"
-             alt="Top Languages"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zeeshan10&layout=compact&theme=dark&bg_color=0D1117&title_color=7B8FA1&icon_color=7B8FA1&text_color=7B8FA1&border_color=7B8FA1&hide_border=true&card_width=280" alt="Top Languages"
              style="border-radius: 12px; box-shadow: 0 4px 20px rgba(123, 143, 161, 0.2);" />
       </td>
     </tr>
