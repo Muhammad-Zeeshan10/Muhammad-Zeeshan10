@@ -23,7 +23,7 @@
         <h3 style="color: #7B8FA1;">🧠 What I Know</h3>
         <ul style="list-style-type: '💡'; padding-left: 1.2em; font-size: 14px; line-height: 1.8;">
           <li><strong>Languages:</strong> JavaScript, SQL, TypeScript, Python, HTML/CSS</li>
-          <li><strong>Frameworks & Tools:</strong>  React.js, Next.js, Node.js, Express.js, Git, GitHub, Jira, Eclipse, Docker, MiniKube (Kubernetes), Jenkins, Postman, Figma</li>
+          <li><strong>Frameworks & Tools:</strong>  React.js, Next.js, Node.js, Express.js, Git, GitHub, Jira, Eclipse, Docker, MiniKube   (Kubernetes), Jenkins, Postman, Figma</li>
           <li><strong>Databases:</strong> MongoDB, MySQL, PostgreSQL</li>
         </ul>
       </td>
